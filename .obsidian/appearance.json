@@ -1,0 +1,9 @@
+{
+  "interfaceFontFamily": "AdwaitaMono Nerd Font Mono",
+  "textFontFamily": "AdwaitaMono Nerd Font Mono",
+  "monospaceFontFamily": "AdwaitaMono Nerd Font Mono",
+  "translucency": true,
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
+}
