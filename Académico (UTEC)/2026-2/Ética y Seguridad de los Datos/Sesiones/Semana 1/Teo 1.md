@@ -86,7 +86,7 @@ Recolección ➔ Almacenamiento ➔ Procesamiento ➔ Compartición ➔ Eliminac
 ---
 
 ## 🧠 Conceptos Evergreen Conectados
-- [[04 Conocimiento/AI & Data Science/Sesgo Algorítmico|Sesgo Algorítmico]]
-- [[04 Conocimiento/Arquitectura & Backend/Tríada CIA|Tríada CIA]]
-- [[04 Conocimiento/Gestión & Liderazgo/Privacidad y Derechos ARCO|Privacidad y Derechos ARCO]]
+- [[Sesgo Algorítmico|Sesgo Algorítmico]]
+- [[Tríada CIA|Tríada CIA]]
+- [[Privacidad y Derechos ARCO|Privacidad y Derechos ARCO]]
 - [[04 Conocimiento/Gestión & Liderazgo/GDPR y Ley 29733|GDPR y Ley 29733]]

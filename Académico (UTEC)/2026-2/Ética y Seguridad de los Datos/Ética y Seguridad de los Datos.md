@@ -71,7 +71,7 @@ $$\text{NF} = 0.20 \cdot \text{EP} + 0.30 \cdot \text{EF} + 0.10 \cdot \text{EC1
 ---
 
 ## 📂 Sesiones del Ciclo
-- [x] [[Semana 1/Teo 1|Semana 01 - Teoría 1: Fundamentos de Seguridad, Privacidad y Ética]]
+- [x] [[Académico (UTEC)/2026-2/Ética y Seguridad de los Datos/Sesiones/Semana 1/Teo 1|Semana 01 - Teoría 1: Fundamentos de Seguridad, Privacidad y Ética]]
 - [ ] [[Sesiones/Semana 01 - Lab 1|Semana 01 - Lab 1: Setup y Primeros Ejercicios]]
 - [ ] [[Sesiones/Semana 01 - Lab 2|Semana 01 - Lab 2: Análisis de Casos de Seguridad]]
 
@@ -93,9 +93,9 @@ $$\text{NF} = 0.20 \cdot \text{EP} + 0.30 \cdot \text{EF} + 0.10 \cdot \text{EC1
 ---
 
 ## 🧠 Conceptos Evergreen Vinculados
-- [[04 Conocimiento/Arquitectura & Backend/Tríada CIA|Tríada CIA]]
-- [[04 Conocimiento/AI & Data Science/Sesgo Algorítmico|Sesgo Algorítmico]]
+- [[Tríada CIA|Tríada CIA]]
+- [[Sesgo Algorítmico|Sesgo Algorítmico]]
 - [[04 Conocimiento/Gestión & Liderazgo/GDPR y Ley 29733|GDPR y Ley 29733]]
-- [[04 Conocimiento/Gestión & Liderazgo/Privacidad y Derechos ARCO|Privacidad y Derechos ARCO]]
+- [[Privacidad y Derechos ARCO|Privacidad y Derechos ARCO]]
 - [[04 Conocimiento/Arquitectura & Backend/Privacidad Diferencial|Privacidad Diferencial]]
 - [[04 Conocimiento/Arquitectura & Backend/Security by Design|Security by Design]]

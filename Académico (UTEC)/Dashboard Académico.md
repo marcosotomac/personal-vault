@@ -48,17 +48,21 @@ tags:
 ## Próximos Entregables y Evaluaciones
 
 - [ ] **Semana 04:** [[Proyecto Preprofesional]] - Informe de Avance 1
-- [ ] **Semana 05:** [[Machine Learning]] - Evaluación Continua 1
 - [ ] **Semana 06:** [[Evaluación Financiera de Proyectos]] - Práctica Calificada 1
+- [ ] **Semana 07:** [[Machine Learning]] - Proyecto 1 (10%)
 - [ ] **Semana 07:** [[Ética y Seguridad de los Datos]] - Proyecto 1 (15%)
 - [ ] **Semana 07:** [[Comunicación Técnica y Empresarial]] - Presentación Técnica 1
-- [ ] **Semana 08:** 🚨 **Semana de Exámenes Parciales** (EP Ética 20%, EC1 Ética 10%)
-- [ ] **Semana 15:** [[Ética y Seguridad de los Datos]] - Evaluación Continua 2 (10%)
-- [ ] **Semana 16:** 🏁 **Exámenes Finales y Proyecto 2** (P2 Ética 15%, EF Ética 30%)
+- [ ] **Semana 08:** 🚨 **Semana de Exámenes Parciales**
+  - [[Machine Learning]]: EP (10%) + EC1 (10%)
+  - [[Ética y Seguridad de los Datos]]: EP (20%) + EC1 (10%)
+- [ ] **Semana 15:** [[Machine Learning]] - EC2 (10%) • [[Ética y Seguridad de los Datos]] - EC2 (10%)
+- [ ] **Semana 16:** 🏁 **Exámenes Finales y Proyectos**
+  - [[Machine Learning]]: Proyecto 2 (30%) + EF (30%)
+  - [[Ética y Seguridad de los Datos]]: Proyecto 2 (15%) + EF (30%)
 
 ---
 
 ## Conexión con Conocimiento Transversal
-- [[04 Conocimiento/AI & Data Science/index|Área: Machine Learning & Data]]
-- [[04 Conocimiento/Arquitectura & Backend/index|Área: Arquitectura & Software]]
-- [[04 Conocimiento/Gestión & Liderazgo/index|Área: Gestión de Proyectos]]
+- [[Conocimiento/AI & Data Science/index|Área: Machine Learning & Data]]
+- [[Conocimiento/Arquitectura & Backend/index|Área: Arquitectura & Software]]
+- [[Conocimiento/Gestión & Liderazgo/index|Área: Gestión de Proyectos]]
