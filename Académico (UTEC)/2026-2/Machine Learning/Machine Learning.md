@@ -81,8 +81,9 @@ Miércoles (07:00 - 09:00) ➔ Explicación del nuevo laboratorio (~6 días de d
 
 ## 📂 Sesiones del Ciclo
 - [x] [[Sesiones/Semana 1/Teo 1|Semana 01 - Teoría 1: Introducción a Machine Learning y Paradigmas]]
-- [ ] [[Sesiones/Semana 1/Lab 1|Semana 01 - Lab 1: Explicación de Laboratorio 1]]
-- [ ] [[Sesiones/Semana 2/Teo 2|Semana 02 - Teoría 2: Regresión Lineal y Gradient Descent]]
+- [x] [[Sesiones/Semana 1/Teo 2|Semana 01 - Teoría 2: Aprendizaje Supervisado, Generalización y Dimensionalidad]]
+- [ ] [[Sesiones/Semana 1/Lab 1|Semana 01 - Lab 1: Explicación de Laboratorio 1 (Miércoles)]]
+- [ ] [[Sesiones/Semana 2/Teo 1|Semana 02 - Teoría 1: Regresión Lineal y Gradient Descent]]
 
 ---
 
