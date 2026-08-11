@@ -28,33 +28,74 @@ tags:
 
 ---
 
-## Sistema de Evaluación
+## 📊 Sistema de Evaluación Oficial
 
-| Componente | Peso (%) | Semana Estimada | Estado |
-| :--- | :---: | :---: | :---: |
-| Talleres y Casos Prácticos | 20% | Continuo | En curso |
-| Evaluación Continua | 25% | Semana 06 | Pendiente |
-| Examen Parcial | 25% | Semana 08 | Pendiente |
-| Proyecto de Auditoría / Caso Ético | 15% | Semana 14 | Pendiente |
-| Examen Final | 15% | Semana 16 | Pendiente |
+$$\text{NF} = 0.20 \cdot \text{EP} + 0.30 \cdot \text{EF} + 0.10 \cdot \text{EC1} + 0.10 \cdot \text{EC2} + 0.15 \cdot \text{P1} + 0.15 \cdot \text{P2}$$
 
----
+| Componente | Código | Peso (%) | Semana Oficial | Estado |
+| :--- | :---: | :---: | :---: | :---: |
+| **Proyecto 1** | P1 | 15% | Semana 07 | ⏳ Pendiente |
+| **Evaluación Continua 1** *(Evaluaciones en clase)* | EC1 | 10% | Semana 08 | ⏳ Pendiente |
+| **Examen Parcial** | EP | 20% | Semana 08 | ⏳ Pendiente |
+| **Evaluación Continua 2** *(Evaluaciones en clase)* | EC2 | 10% | Semana 15 | ⏳ Pendiente |
+| **Proyecto 2** | P2 | 15% | Semana 16 | ⏳ Pendiente |
+| **Examen Final** | EF | 30% | Semana 16 | ⏳ Pendiente |
 
-## Sesiones de Clase
-- [ ] [[Semana 01 - Teoría - Principios Éticos y Gobernanza de Datos]]
-- [ ] [[Semana 01 - Lab 01 - Anonimización y Privacidad Diferencial]]
-- [ ] [[Semana 01 - Lab 02 - Seguridad en Almacenamiento y Criptografía]]
-
----
-
-## Entregables y Proyectos
-- [ ] **Caso de Estudio 1:** Análisis de Fuga de Datos y Responsabilidad Legal
-- [ ] **Laboratorio 1:** Técnicas de Ofuscación de Datos Sensibles
+> [!warning] Política de Uso de Inteligencia Artificial (IA)
+> - Salvo autorización explícita del docente para un entregable específico, **el uso de IA está prohibido** en evaluaciones y trabajos calificables.
+> - Si se autoriza su uso, el estudiante asume total responsabilidad sobre el contenido presentado.
 
 ---
 
-## Conceptos Evergreen Vinculados
-- [[Gobernanza y Privacidad de Datos]]
-- [[GDPR y Legislación de Datos Personales]]
-- [[Criptografía y Control de Acceso]]
-- [[Sesgo Algorítmico y Equidad en IA]]
+## 🗺️ Mapa Temático del Sílabo
+
+### Módulo 1: Introducción y Fundamentos de Ciberseguridad (~Semanas 1-8)
+- **Tríada CIA:** Confidencialidad, Integridad y Disponibilidad.
+- **Autenticación y Autorización:** Modelos RBAC/ABAC y control de acceso.
+- **Criptografía y Hashing:** Algoritmos simétricos, asimétricos y funciones resumen.
+- **Seguridad en BD, Redes y SO:** Inyecciones SQL, hardening y segmentación.
+- **Security by Design & Defense in Depth:** Principios arquitectónicos de seguridad.
+- **Seguridad en Big Data y en IA:** Vulnerabilidades en pipelines y modelos.
+
+### Módulo 2: Privacidad de Datos y Regulación (~Semanas 9-12)
+- **Marco Normativo:** Ley 29733 (Perú), GDPR (UE) y Derechos ARCO.
+- **Privacy by Design:** Incorporación de privacidad desde la concepción del sistema.
+- **Técnicas de Preservación:** Anonimización, K-anonymity y Privacidad Diferencial (*Differential Privacy*).
+- **Ataques a la Privacidad:** Reidentificación, inferencia y ataques de membresía.
+
+### Módulo 3: Ética en Datos e Inteligencia Artificial (~Semanas 13-16)
+- **Ética en el Ciclo de Vida del Dato:** Recolección, curación y disposición responsable.
+- **Sesgo Algorítmico y Equidad (Fairness):** Detección y mitigación de sesgos en Machine Learning.
+- **Gobernanza y Buenas Prácticas:** Marcos éticos para adopción de IA en organizaciones.
+
+---
+
+## 📂 Sesiones del Ciclo
+- [x] [[Semana 1/Teo 1|Semana 01 - Teoría 1: Fundamentos de Seguridad, Privacidad y Ética]]
+- [ ] [[Sesiones/Semana 01 - Lab 1|Semana 01 - Lab 1: Setup y Primeros Ejercicios]]
+- [ ] [[Sesiones/Semana 01 - Lab 2|Semana 01 - Lab 2: Análisis de Casos de Seguridad]]
+
+---
+
+## 🎯 Entregables y Proyectos del Sílabo
+- [ ] **Proyecto 1 (15% - Sem 07):** [[Entregables/Proyecto 1|P1 - Aplicación de Seguridad y Protección de Datos]]
+- [ ] **Proyecto 2 (15% - Sem 16):** [[Entregables/Proyecto 2|P2 - Auditoría de Privacidad y Caso Ético en IA]]
+
+---
+
+## 📚 Bibliografía Esencial del Curso
+- **Cathy O'Neil (2016):** *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*.
+- **Cynthia Dwork & Aaron Roth (2014):** *The Algorithmic Foundations of Differential Privacy*.
+- **William Stallings & Lawrie Brown (2018):** *Computer Security: Principles and Practice* (4th ed.).
+- **Shoshana Zuboff (2019):** *The Age of Surveillance Capitalism*.
+- **Wendell Wallach & Colin Allen (2009):** *Moral Machines: Teaching Robots Right from Wrong*.
+
+---
+
+## 🧠 Conceptos Evergreen Vinculados
+- [[04 Conocimiento/Arquitectura & Backend/Tríada CIA|Tríada CIA]]
+- [[04 Conocimiento/AI & Data Science/Sesgo Algorítmico|Sesgo Algorítmico]]
+- [[04 Conocimiento/Gestión & Liderazgo/GDPR y Ley 29733|GDPR y Ley 29733]]
+- [[04 Conocimiento/Gestión & Liderazgo/Privacidad y Derechos ARCO|Privacidad y Derechos ARCO]]
+- [[04 Conocimiento/Arquitectura & Backend/Privacidad Diferencial|Privacidad Diferencial]]
+- [[04 Conocimiento/Arquitectura & Backend/Security by Design|Security by Design]]

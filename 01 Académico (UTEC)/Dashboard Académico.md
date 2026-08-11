@@ -49,10 +49,12 @@ tags:
 
 - [ ] **Semana 04:** [[Proyecto Preprofesional]] - Informe de Avance 1
 - [ ] **Semana 05:** [[Machine Learning]] - Evaluación Continua 1
-- [ ] **Semana 06:** [[Ética y Seguridad de los Datos]] - Evaluación Continua 1
 - [ ] **Semana 06:** [[Evaluación Financiera de Proyectos]] - Práctica Calificada 1
+- [ ] **Semana 07:** [[Ética y Seguridad de los Datos]] - Proyecto 1 (15%)
 - [ ] **Semana 07:** [[Comunicación Técnica y Empresarial]] - Presentación Técnica 1
-- [ ] **Semana 08:** Semana de Exámenes Parciales
+- [ ] **Semana 08:** 🚨 **Semana de Exámenes Parciales** (EP Ética 20%, EC1 Ética 10%)
+- [ ] **Semana 15:** [[Ética y Seguridad de los Datos]] - Evaluación Continua 2 (10%)
+- [ ] **Semana 16:** 🏁 **Exámenes Finales y Proyecto 2** (P2 Ética 15%, EF Ética 30%)
 
 ---
 
