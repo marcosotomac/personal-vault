@@ -26,16 +26,44 @@ tags:
 
 ---
 
-## 📊 Sistema de Evaluación
+## 📊 Sistema de Evaluación Oficial (Sílabo)
 
-| Componente | Código | Semana | Dinámica |
-| :--- | :---: | :---: | :--- |
-| **Práctica Calificada 1** | PC1 | Semana 06 | Grupal (4 integrantes) — Hasta Flujo de Caja Operativo + Exposición |
-| **Evaluación Continua 1** | C1 | Semana 07 | Promedio de quices individuales en Canvas con Proctorio (clases 1 a 7, descarta la menor) |
-| **Examen Parcial** | EP | Semana 08 | Individual, virtual |
-| **Práctica Calificada 2** | PC2 | Semana 14 | Grupal (4 integrantes) — Proyecto completo + WACC, VAN, TIR, Sensibilidad + Exposición |
-| **Evaluación Continua 2** | C2 | Semana 15 | Promedio de quices individuales en Canvas con Proctorio (clases 8 a 15, descarta la menor) |
-| **Examen Final** | EF | Semana 16 | Individual, virtual con casos en Excel |
+$$\text{NF} = 0.25 \cdot \text{EP} + 0.25 \cdot \text{EF} + 0.20 \cdot \text{PC1} + 0.20 \cdot \text{PC2} + 0.05 \cdot \text{EC1} + 0.05 \cdot \text{EC2}$$
+
+| Componente | Código | Peso (%) | Semana Oficial | Descripción / Dinámica |
+| :--- | :---: | :---: | :---: | :--- |
+| **Práctica Calificada 1** | PC1 | 20% | Semana 06 | Grupal (4 integrantes) — Adelanto trabajo integrador (hasta Flujo Operativo) + Exposición |
+| **Evaluación Continua 1** | EC1 | 5% | Semana 07 | Promedio quices Canvas/Proctorio (Sem 1 a 7, descarta la menor) + Asistencia y participación |
+| **Examen Parcial** | EP | 25% | Semana 08 | Individual, virtual |
+| **Práctica Calificada 2** | PC2 | 20% | Semana 14 | Grupal (4 integrantes) — Presentación final trabajo integrador (Modelo completo y Sensibilidad) |
+| **Evaluación Continua 2** | EC2 | 5% | Semana 15 | Promedio quices Canvas/Proctorio (Sem 8 a 15, descarta la menor) + Asistencia y participación |
+| **Examen Final** | EF | 25% | Semana 16 | Individual, virtual con desarrollo de casos en Excel |
+
+---
+
+## 🗺️ Mapa Temático del Sílabo
+
+### Unidad 1: Fundamentos de Evaluación de Proyectos
+- Introducción a la formulación y etapas del ciclo de vida de un proyecto.
+- Estudio de mercado: análisis de demanda, métodos de pronóstico, supuestos de precios y volúmenes proyectados.
+
+### Unidad 2: Costo de Oportunidad de Capital (COK)
+- Costo Promedio Ponderado de Capital (**WACC**).
+- Costo de la deuda ($K_d$) vs. Costo del capital patrimonial ($K_e$).
+- Modelo de Valoración de Activos de Capital (**CAPM**) y ROE vs. CAPM.
+
+### Unidad 3: Proyecciones Financieras y Flujos de Caja
+- Estructura detallada del flujo de caja proyectado.
+- **Flujo de Caja Económico (FCE)** vs. **Flujo de Caja Financiero (FCF)** (con servicio de deuda).
+
+### Unidad 4: Indicadores de Factibilidad Económico-Financiera
+- **Valor Actual Neto (VAN)** y **Tasa Interna de Retorno (TIR)**.
+- Valoración de empresas jóvenes y Startups (*Venture Capital Valuation*).
+- Período de recuperación (Payback) y relación Beneficio-Costo ($B/C$).
+
+### Unidad 5: Identificación de Riesgos y Análisis de Sensibilidad
+- Cobertura de riesgos y ajuste de tasa de descuento.
+- **Análisis de Sensibilidad y Escenarios** (Optimista, Base, Pesimista).
 
 ---
 
@@ -53,24 +81,27 @@ tags:
 ## 📂 Sesiones del Ciclo
 - [x] [[Sesiones/Semana 1/Teo 1|Semana 01 - Teoría 1: Fundamentos de Evaluación de Proyectos y Modelado Financiero]]
 - [ ] [[Sesiones/Semana 2/Teo 1|Semana 02 - Teoría 2: Discusión Sapag Cap 1, Quiz 1 y Construcción de Flujos]]
-- [ ] [[Sesiones/Semana 3/Teo 1|Semana 03 - Teoría 3: Proyección de Demanda y Estructura de Costos]]
+- [ ] [[Sesiones/Semana 3/Teo 1|Semana 03 - Teoría 3: Estudio de Mercado y Pronóstico de Demanda]]
 
 ---
 
 ## 🎯 Entregables y Evaluaciones
 - [ ] **Semana 02:** Quiz 1 (Canvas / Proctorio)
-- [ ] **Semana 06:** [[Entregables/PC1|Práctica Calificada 1 (Grupal - Flujo de Caja Operativo)]]
-- [ ] **Semana 07:** Corte C1 (Quizzes 1 a 7)
-- [ ] **Semana 08:** Examen Parcial
-- [ ] **Semana 14:** [[Entregables/PC2|Práctica Calificada 2 (Grupal - Modelo Completo y Sensibilidad)]]
-- [ ] **Semana 15:** Corte C2 (Quizzes 8 a 15)
-- [ ] **Semana 16:** Examen Final (Casos en Excel)
+- [ ] **Semana 06:** [[Entregables/PC1|PC1 - Práctica Calificada 1 (Grupal - Flujo Operativo)]]
+- [ ] **Semana 07:** Corte EC1 (5%)
+- [ ] **Semana 08:** Examen Parcial (25%)
+- [ ] **Semana 14:** [[Entregables/PC2|PC2 - Práctica Calificada 2 (Grupal - Modelo Completo y Sensibilidad)]]
+- [ ] **Semana 15:** Corte EC2 (5%)
+- [ ] **Semana 16:** Examen Final (25% - Casos en Excel)
 
 ---
 
-## 📚 Bibliografía Fundamental
-- **Nassir Sapag Chain & Reinaldo Sapag Chain:** *Formulación y Evaluación de Proyectos de Inversión* (Capítulo 1 obligatorio para inicio de ciclo).
-- **Richard Brealey, Stewart Myers, Franklin Allen:** *Principios de Finanzas Corporativas*.
+## 📚 Bibliografía Oficial del Sílabo
+- **Nassir Sapag Chain, R. Sapag & J. M. Sapag (2014):** *Preparación y evaluación de proyectos* (6.ª ed., McGraw-Hill).
+- **G. Baca (2023):** *Evaluación de proyectos* (7.ª ed., McGraw-Hill).
+- **A. Beltrán & H. Cueva (2018):** *Evaluación privada de proyectos* (4.ª ed., Centro de Investigación de la UP).
+- **S. Ross, R. Westerfield, B. Jordan (2022):** *Fundamentos de finanzas corporativas* (13.ª ed., McGraw-Hill).
+- **M. De la Ossa (2022):** *Diseño de modelos financieros* (Tomos 1 y 2, Univ. Externado).
 
 ---
 
@@ -78,5 +109,6 @@ tags:
 - [[Conocimiento/Finanzas/Valor del Dinero en el Tiempo|Valor del Dinero en el Tiempo]]
 - [[Conocimiento/Finanzas/Valor Actual Neto (VAN) y TIR|Valor Actual Neto (VAN) y TIR]]
 - [[Conocimiento/Finanzas/Costo de Capital (WACC)|Costo de Capital (WACC)]]
+- [[Conocimiento/Finanzas/Modelo CAPM|Modelo CAPM]]
 - [[Conocimiento/Finanzas/Estructura del Flujo de Caja Libre|Estructura del Flujo de Caja Libre]]
 - [[Conocimiento/Finanzas/Análisis de Sensibilidad y Escenarios|Análisis de Sensibilidad y Escenarios]]
